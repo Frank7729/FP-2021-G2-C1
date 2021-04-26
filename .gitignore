@@ -1,5 +1,4 @@
 *.replit
-*.class
 **/*
 !**/*.scala
 !**/*.kt
