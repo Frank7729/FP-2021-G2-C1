@@ -1,5 +1,6 @@
 *.replit
-**/
+*.class
+**/*
 !**/*.scala
 !**/*.kt
 !**/*.dart
